@@ -8,6 +8,7 @@ Current interests:
 - Tooling infrastructure for agent sandboxes, task routing, traces, and long-running work
 - Evaluation loops for software agents: regression suites, task benchmarks, review signals, and failure analysis
 - Human-in-the-loop developer workflows where agents produce inspectable diffs, evidence, and rationale
+- Tooling and orchestration around distributed systems, with extensive PostgreSQL experience
 - Backend and systems work in TypeScript, Python, Rust, and Go
 
 Current work:
