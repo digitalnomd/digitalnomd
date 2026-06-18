@@ -11,6 +11,7 @@ I build tooling around complex software systems: agent workflows, developer infr
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=gnubash&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
