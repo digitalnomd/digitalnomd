@@ -2,6 +2,8 @@
 
 Coding agents & infrastructure | Distributed systems tooling | PostgreSQL orchestration
 
+📍 San Francisco Bay Area | 🎧 Music | 🥾 Hiking | ☕ Coffee
+
 I build tooling around complex software systems: agent workflows, developer infrastructure, distributed operations, and reliable automation.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
