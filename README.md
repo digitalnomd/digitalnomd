@@ -14,33 +14,33 @@ I build tooling around complex software systems: agent workflows, developer infr
 
 ## Start Here
 
-- Coding agent systems that can plan, edit, test, and recover inside real repositories
-- Infrastructure for agent sandboxes, task routing, traces, long-running jobs, and safe tool execution
-- Evaluation loops for software agents: regression suites, task benchmarks, review signals, and failure analysis
-- Tooling and orchestration around distributed systems, with extensive PostgreSQL experience
-- Human-in-the-loop developer workflows where agents produce inspectable diffs, evidence, and rationale
+- 🤖 Coding agent systems that can plan, edit, test, and recover inside real repositories
+- 🧰 Infrastructure for agent sandboxes, task routing, traces, long-running jobs, and safe tool execution
+- 📊 Evaluation loops for software agents: regression suites, task benchmarks, review signals, and failure analysis
+- 🗄️ Tooling and orchestration around distributed systems, with extensive PostgreSQL experience
+- 👥 Human-in-the-loop developer workflows where agents produce inspectable diffs, evidence, and rationale
 
 ## Current Focus
 
-### Coding Agent Infrastructure
+### 🤖 Coding Agent Infrastructure
 
-- Tool execution and sandbox boundaries
-- Repository understanding and task decomposition
-- Long-running agent workflows with checkpoints, traces, and recovery
-- Reviewable agent output: diffs, tests, evidence, and failure summaries
+- 🛠️ Tool execution and sandbox boundaries
+- 🧭 Repository understanding and task decomposition
+- 🔁 Long-running agent workflows with checkpoints, traces, and recovery
+- 🔍 Reviewable agent output: diffs, tests, evidence, and failure summaries
 
-### Distributed Systems Tooling
+### 🗄️ Distributed Systems Tooling
 
-- PostgreSQL-heavy operational tooling
-- Orchestration around distributed services
-- Automation for migrations, reliability work, and developer operations
-- Observability and debugging workflows for complex systems
+- 🐘 PostgreSQL-heavy operational tooling
+- 🕸️ Orchestration around distributed services
+- ⚙️ Automation for migrations, reliability work, and developer operations
+- 📈 Observability and debugging workflows for complex systems
 
-### Developer Workflows
+### 🧑‍💻 Developer Workflows
 
-- CLI and backend tools that shorten feedback loops
-- Test, build, and review automation
-- Interfaces that keep humans in control of high-impact changes
+- ⌨️ CLI and backend tools that shorten feedback loops
+- ✅ Test, build, and review automation
+- 🧑‍⚖️ Interfaces that keep humans in control of high-impact changes
 
 <!--
 ## Start Here
